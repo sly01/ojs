@@ -7,6 +7,7 @@ files
 .buildpath
 .settings
 
+
 /web/bundles/
 /app/bootstrap.php.cache
 /app/cache/*
@@ -18,3 +19,4 @@ files
 /vendor/
 /bin/
 /composer.phar
+/nbproject/private/
