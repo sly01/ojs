@@ -1,4 +1,4 @@
-Symfony Standard Edition
+Open Journal System
 ========================
 
 Welcome to the Symfony Standard Edition - a fully-functional Symfony2
@@ -24,23 +24,13 @@ http://getcomposer.org/ or just run the following command:
 
     curl -s http://getcomposer.org/installer | php
 
-Then, use the `create-project` command to generate a new Symfony application:
+Then, use the `update` command to generate a new Symfony application:
 
-    php composer.phar create-project symfony/framework-standard-edition path/to/install
+    php composer.phar update
 
-Composer will install Symfony and all its dependencies under the
-`path/to/install` directory.
 
-### Download an Archive File
 
-To quickly test Symfony, you can also download an [archive][3] of the Standard
-Edition and unpack it somewhere under your web server root directory.
 
-If you downloaded an archive "without vendors", you also need to install all
-the necessary dependencies. Download composer (see above) and run the
-following command:
-
-    php composer.phar install
 
 2) Checking your System Configuration
 -------------------------------------
@@ -61,22 +51,9 @@ Access the `config.php` script from a browser:
 
 If you get any warnings or recommendations, fix them before moving on.
 
-3) Browsing the Demo Application
---------------------------------
 
-Congratulations! You're now ready to use Symfony.
 
-From the `config.php` page, click the "Bypass configuration and go to the
-Welcome page" link to load up your first Symfony page.
-
-You can also use a web-based configurator by clicking on the "Configure your
-Symfony Application online" link of the `config.php` page.
-
-To see a real-live Symfony page in action, access the following page:
-
-    web/app_dev.php/demo/hello/Fabien
-
-4) Getting started with Symfony
+3) Getting started with Symfony
 -------------------------------
 
 This distribution is meant to be the starting point for your Symfony
