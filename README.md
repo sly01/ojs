@@ -2,6 +2,9 @@
 
 **Open Journal Systems (OJS)** is a journal management and publishing system with **Symfony 2 Framework** that has been developed by the Public Knowledge Project through its federally funded efforts to expand and improve access to research.
 
+please do fork us
+
+
 ##OJS Features
 
 1. OJS is installed locally and locally controlled.
