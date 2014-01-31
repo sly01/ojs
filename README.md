@@ -3,6 +3,8 @@
 
 **Open Journal Systems (OJS)** is a journal management and publishing system with **Symfony 2 Framework** that has been developed by the Public Knowledge Project through its federally funded efforts to expand and improve access to research.
 
+We fork [PKP/OJS](http://pkp.sfu.ca/ojs/)
+
 please do fork us
 
 
@@ -63,5 +65,20 @@ Access the `config.php` script from a browser:
     http://localhost/path/to/symfony/app/web/config.php
 
 If you get any warnings or recommendations, fix them before moving on.
+
+
+3) Symfony 2 Framework
+-------------------------------------
+
+You may have a look at [Symfony2 cheatsheet](http://www.symfony2cheatsheet.com/)
+
+
+
+
+4) RoadMap
+-------------------------------------
+
+1. TODO
+
 
 
